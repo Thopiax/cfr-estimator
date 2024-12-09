@@ -13,7 +13,7 @@ ipykernel==5.1.4
 ipython==7.13.0
 ipython_genutils==0.2.0
 jedi==0.16.0
-joblib==0.14.1
+joblib==1.2.0
 jupyter_client==6.1.2
 jupyter_core==4.6.3
 matplotlib-base==3.1.3
