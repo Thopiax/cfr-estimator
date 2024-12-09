@@ -3,7 +3,7 @@ backcall==0.1.0
 bayesian-optimization===1.1.0
 blas==1.0
 ca-certificates==2020.4.5.1
-certifi==2020.4.5.1
+certifi==2022.12.7
 cycler==0.10.0
 decorator==4.4.2
 entrypoints==0.3
