@@ -10,7 +10,7 @@ entrypoints==0.3
 fastprogress==0.2.2
 freetype==2.10.1
 ipykernel==5.1.4
-ipython==7.13.0
+ipython==7.16.3
 ipython_genutils==0.2.0
 jedi==0.16.0
 joblib==0.14.1
